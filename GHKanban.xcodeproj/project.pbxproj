@@ -21,9 +21,7 @@
 		9292D0D920FA048B00E03F8C /* DoneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9292D0D820FA048B00E03F8C /* DoneViewController.swift */; };
 		9292D0DB20FA04D400E03F8C /* BackLogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9292D0DA20FA04D400E03F8C /* BackLogViewController.swift */; };
 		9292D0DD20FA055200E03F8C /* NextViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9292D0DC20FA055200E03F8C /* NextViewController.swift */; };
-		9292D0DF20FA0ADC00E03F8C /* RepoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9292D0DE20FA0ADC00E03F8C /* RepoTableViewCell.swift */; };
 		9292D0E120FA0F1000E03F8C /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9292D0E020FA0F1000E03F8C /* Comment.swift */; };
-		9292D0E320FA181000E03F8C /* IssueTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9292D0E220FA181000E03F8C /* IssueTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,9 +41,7 @@
 		9292D0D820FA048B00E03F8C /* DoneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoneViewController.swift; sourceTree = "<group>"; };
 		9292D0DA20FA04D400E03F8C /* BackLogViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackLogViewController.swift; sourceTree = "<group>"; };
 		9292D0DC20FA055200E03F8C /* NextViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NextViewController.swift; sourceTree = "<group>"; };
-		9292D0DE20FA0ADC00E03F8C /* RepoTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RepoTableViewCell.swift; sourceTree = "<group>"; };
 		9292D0E020FA0F1000E03F8C /* Comment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
-		9292D0E220FA181000E03F8C /* IssueTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IssueTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,8 +105,6 @@
 				9292D0D820FA048B00E03F8C /* DoneViewController.swift */,
 				9292D0DA20FA04D400E03F8C /* BackLogViewController.swift */,
 				9292D0DC20FA055200E03F8C /* NextViewController.swift */,
-				9292D0DE20FA0ADC00E03F8C /* RepoTableViewCell.swift */,
-				9292D0E220FA181000E03F8C /* IssueTableViewCell.swift */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -195,7 +189,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9292D0E320FA181000E03F8C /* IssueTableViewCell.swift in Sources */,
 				9292D0CA20F9018100E03F8C /* DoingViewController.swift in Sources */,
 				9292D0DD20FA055200E03F8C /* NextViewController.swift in Sources */,
 				9292D0D020F9038500E03F8C /* Issue.swift in Sources */,
@@ -208,7 +201,6 @@
 				9292D0D920FA048B00E03F8C /* DoneViewController.swift in Sources */,
 				9292D0B220F9007300E03F8C /* AppDelegate.swift in Sources */,
 				9292D0B420F9007300E03F8C /* ExploreViewController.swift in Sources */,
-				9292D0DF20FA0ADC00E03F8C /* RepoTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
